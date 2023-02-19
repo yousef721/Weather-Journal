@@ -1,7 +1,7 @@
 # Weather-Journal App Project
 
 ## description
-This project is simple consists of 
+This project consists of 
 - Create website, inside website two input and button
 - The user does data notation zipcode and their feeling today
 - Take data from user by use button "Generate"
